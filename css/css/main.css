@@ -1343,8 +1343,10 @@ textarea {
 }
 .team-item {
   border-radius: 15px;
-  border: 1px solid var(--tg-border-1);
+  border: 0.5px solid var(--tg-border-1);
   margin-bottom: 30px;
+  height:550px;
+ 
 }
 .team-item-wrap .row {
   --bs-gutter-x: 24px;
@@ -1501,7 +1503,7 @@ textarea {
   padding: 15px 25px 25px;
 }
 .team-content .title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   margin-bottom: 8px;
 }
@@ -1514,7 +1516,7 @@ textarea {
   text-align: center;
 }
 .team__content-two .title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: var(--tg-fw-semi-bold);
   margin-bottom: 8px;
 }
@@ -1534,7 +1536,7 @@ textarea {
 .team__content-three .title {
   margin-bottom: 5px;
   color: var(--tg-color-white-default);
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
 }
 .team__content-three span {
@@ -1555,7 +1557,7 @@ textarea {
   z-index: 1;
 }
 .team__content-four .title {
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 5px;
   font-weight: 600;
 }
