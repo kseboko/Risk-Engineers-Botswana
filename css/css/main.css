@@ -1344,8 +1344,8 @@ textarea {
 .team-item {
   border-radius: 15px;
   border: 0.5px solid var(--tg-border-1);
-  margin-bottom: 30px;
-  height:550px;
+  margin-bottom: 50px;
+  height:100%;
  
 }
 .team-item-wrap .row {
